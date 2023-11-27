@@ -1,0 +1,27 @@
+{
+  "name": "weebay-prettier-config",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Prettier config by alilis",
+  "homepage": "https://github.com/aweirdocc/prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aweirdocc/prettier-config.git"
+  },
+  "main": "config.js",
+  "scripts": {
+    "format": "prettier --cache --write ."
+  },
+  "files": [
+    "config.js"
+  ],
+  "keywords": [
+    "prettier"
+  ],
+  "author": "alilis",
+  "peerDependencies": {
+    "prettier": "^3.1.0"
+  },
+  "prettier": "./config.js",
+  "license": "ISC"
+}

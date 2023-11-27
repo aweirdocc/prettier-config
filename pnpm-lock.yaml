@@ -1,0 +1,17 @@
+lockfileVersion: 5.4
+
+specifiers:
+  prettier: ^3.1.0
+
+devDependencies:
+  prettier: registry.npmmirror.com/prettier/3.1.0
+
+packages:
+
+  registry.npmmirror.com/prettier/3.1.0:
+    resolution: {integrity: sha512-TQLvXjq5IAibjh8EpBIkNKxO749UEWABoiIZehEPiY4GNpVdhaFKqSTu+QrlU6D2dPAfubRmtJTi4K4YkQ5eXw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/prettier/-/prettier-3.1.0.tgz}
+    name: prettier
+    version: 3.1.0
+    engines: {node: '>=14'}
+    hasBin: true
+    dev: true
